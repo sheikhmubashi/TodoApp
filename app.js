@@ -29,9 +29,5 @@ function addTodo (event) {
     trashButton.classList.add("complete-btn");
     todoDiv.appendChild(trashButton);
     //Append To List
-    todoList.appendChild("todoDiv")
-
-
-
-
+    todoList.appendChild("todoDiv");
 }
